@@ -20,21 +20,4 @@ Project
 - Performance reporting for each model
 Getting Started
 
-Clone this repository.
-Download the dataset from the Kaggle link above and place it in your project directory.
-Open payment-fraud-analysis.ipynb and follow the steps for data exploration, preprocessing, and model building.
-Requirements
 
-Python 3.x
-Jupyter Notebook
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-You can install the required packages using:
-
-pip install pandas numpy scikit-learn matplotlib seaborn
-Usage
-
-Run the notebook step by step to explore the data, preprocess it, train machine learning models, and evaluate their performance.
